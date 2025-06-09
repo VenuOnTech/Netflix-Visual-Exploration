@@ -72,7 +72,7 @@ netflix-eda-project/
 
 ## 🚀 How to Use
 
-1. Clone the repo or open `Business Insights from Netflix Dataset Using Python & Visualization Tools.ipynb` in [Google Colab]([https://colab.research.google.com/](https://colab.research.google.com/drive/1hgG3_JEExWIwAXWx87zd7ZZUfbcyZfB4?usp=sharing))
+1. Clone the repo or open `Business Insights from Netflix Dataset Using Python & Visualization Tools.ipynb` in [Google Colab](https://colab.research.google.com/drive/1hgG3_JEExWIwAXWx87zd7ZZUfbcyZfB4?usp=sharing)
 2. Upload the dataset file (`netflix_titles.csv`)
 3. Run the notebook to explore the analysis step-by-step
 
